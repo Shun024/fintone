@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 data/
 *.pkl
-.DS_Storenotebooks/fintone_training.ipynb
-notebooks/fintone_training.ipynb
