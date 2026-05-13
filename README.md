@@ -113,6 +113,21 @@ GPT-4o-mini is a general-purpose model with no financial domain adaptation. Its 
 
 ---
 
+## Model Explainability — SHAP Analysis
+
+Top words driving each sentiment class (identified via SHAP):
+
+**Positive sentiment:** increased · profits · quarter · improved · dividend · record
+
+**Negative sentiment:** fell · losses · declined · deteriorated · significantly · weakness
+
+**Key finding:** "Credit" appears in both classes — the model correctly distinguishes "Credit losses" (negative) from "Credit generation" (positive), demonstrating genuine contextual understanding beyond keyword matching.
+
+![SHAP Positive](outputs/shap/shap_positive_words.png)
+![SHAP Negative](outputs/shap/shap_negative_words.png)
+
+---
+
 ## Author
 
 **Shun Le Yi Mon (Sheryl)**  
