@@ -132,4 +132,4 @@ Top words driving each sentiment class (identified via SHAP):
 
 **Shun Le Yi Mon (Sheryl)**  
 Data Scientist · NLP & GenAI  
-[LinkedIn](#) · [GitHub](https://github.com/Shun024) · [HuggingFace](https://huggingface.co/SLYM06)
+[LinkedIn](https://www.linkedin.com/in/shunleyimon724) · [GitHub](https://github.com/Shun024) · [HuggingFace](https://huggingface.co/SLYM06)
